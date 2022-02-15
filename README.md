@@ -1,7 +1,7 @@
 # PengalamanBelajar
 Repository Ini Berisi Pengalaman Belajarku di Dicoding
 
-7 Februari 2022
-Belajar kelas Memulai Dasar Pemrograman untuk Menjadi Pengembang Software
-  * Belajar tentang pengenalan konsep dasar pemrograman
-  * Pengenalan sintaksis dan case sensitive
+14 Juni 2021
+Belajar kelas Memulai Pemrograman dengan Java. (Progres 21%)
+* Belajar tentang apa itu Java dan alasan menggunakannya.
+* Belajar tools yang dapat digunakan untuk menjalankan bahasa pemrograman Java.
